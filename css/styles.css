@@ -156,3 +156,14 @@ h2, h3 {
 		transform: rotate(0);
 	}
 }
+@media (min-width:1065px){
+	#title .container-fluid{
+		padding-bottom:25%;
+	}
+	#pricing{
+		padding:10%;
+	}
+	#cta{
+		padding:2%;
+	}
+}
